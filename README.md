@@ -1,0 +1,2 @@
+# Ar
+Kendini tanistirma yazilari
